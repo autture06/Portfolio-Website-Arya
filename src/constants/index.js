@@ -285,6 +285,13 @@ export const projects = [
         link: 'https://github.com/autture06/Portfolio-Website',
     },
     {
+        iconUrl: algo,
+        theme: 'btn-back-pink',
+        name: 'Sorting Algorithm Visualizer',
+        description: 'Developed an interactive sorting algorithm visualizer to enhance the understanding of various sorting techniques through dynamic and engaging visual demonstrations.',
+        link: 'https://github.com/autture06/sorting-algorithm-visualizer-project',
+    },
+    {
         iconUrl: rut,
         theme: 'btn-back-red',
         name: 'RU Busy Application',
