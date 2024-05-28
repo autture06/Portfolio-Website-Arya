@@ -20,6 +20,7 @@ import {
     typescript,
     linkedin,
     vite,
+    algo,
     arya,
     bank,
     coin,
