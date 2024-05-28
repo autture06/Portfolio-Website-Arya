@@ -29,6 +29,7 @@ import {
     robot,
     rut,
     contact,
+    resume,
 } from "../assets/icons";
 
 
@@ -261,6 +262,11 @@ export const experiences = [
     },
 ];
 export const socialLinks = [
+    {
+        name: 'Resume',
+        iconUrl: resume,
+        link: 'https://drive.google.com/file/d/1wJuUma0juu5Yd12E_KEnKycm5ITfUEUV/view?usp=sharing',
+    },
     {
         name: 'GitHub',
         iconUrl: github,
