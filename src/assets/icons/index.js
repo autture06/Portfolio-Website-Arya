@@ -17,6 +17,7 @@ import threejs from './threejs.svg'
 import typescript from './typescript.svg'
 import vite from './vite.svg'
 import linkedin from './linkedin.svg'
+import algo from './algo.png'
 import arya from './arya.png'
 import bank from './bank.png'
 import coin from './coin.png'
@@ -51,6 +52,7 @@ export {
     typescript,
     linkedin,
     vite,
+    algo,
     arya,
     bank,
     coin,
