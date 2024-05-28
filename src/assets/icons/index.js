@@ -27,6 +27,7 @@ import robot from './robot.png'
 import rut from './rut.png'
 import arrow from './arrow.svg'
 import contact from './contact.svg'
+import resume from './resume.svg'
 import soundoff from './soundoff.png'
 import soundon from './soundon.png'
 import x from './x.svg'
@@ -62,6 +63,7 @@ export {
     rut,
     arrow,
     contact,
+    resume,
     soundoff,
     soundon,
     x
