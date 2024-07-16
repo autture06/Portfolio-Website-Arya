@@ -2,6 +2,7 @@ import blueprint from './blueprint.png'
 import hero from './hero.jpg'
 import hindi from './hindi.png'
 import inke from './inke.png'
+import jpmc from './jpmc.png'
 import kpmg from './kpmg.png'
 import monroe from './monroe.png'
 import pwc from './pwc.png'
@@ -17,6 +18,7 @@ export {
     hero,
     hindi,
     inke,
+    jpmc,
     kpmg,
     monroe,
     pwc,
