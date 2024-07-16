@@ -236,6 +236,18 @@ export const experiences = [
         ],
     },
     {
+        title: "Software Engineer Participant",
+        company_name: "JPMorgan Chase & Co.",
+        icon: kpmg,
+        iconBg: "#a2d2ff",
+        date: "May 2023 - May 2023",
+        points: [
+            "Established Local Development Environment: Efficiently set up a comprehensive local development environment by downloading and configuring all necessary files, tools, and dependencies.",
+            "Repository Maintenance: Identified and resolved issues in broken files within repositories, ensuring the web application produced accurate and reliable outputs.",
+            "Data Visualization Enhancement: Leveraged JPMorgan Chase open-source library to develop and implement dynamic live graphs, enabling traders to visually monitor data feeds in real-time.",
+        ],
+    },
+    {
         title: "Tennis Instructor",
         company_name: "Monroe 33 Tennis, Basketball & Sports Center",
         icon: monroe,
