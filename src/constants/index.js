@@ -1,4 +1,4 @@
-import { hindi, monroe, kpmg, pwc, rmhc, unicef, wics, usacs, blueprint, rumad, inke } from "../assets/images";
+import { hindi, monroe, jpmc, kpmg, pwc, rmhc, unicef, wics, usacs, blueprint, rumad, inke } from "../assets/images";
 
 import {
     c,
@@ -238,7 +238,7 @@ export const experiences = [
     {
         title: "Software Engineer Participant",
         company_name: "JPMorgan Chase & Co.",
-        icon: kpmg,
+        icon: jpmc,
         iconBg: "bronze",
         date: "May 2023 - May 2023",
         points: [
