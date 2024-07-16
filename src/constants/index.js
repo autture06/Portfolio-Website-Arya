@@ -239,7 +239,7 @@ export const experiences = [
         title: "Software Engineer Participant",
         company_name: "JPMorgan Chase & Co.",
         icon: kpmg,
-        iconBg: "#a2d2ff",
+        iconBg: "#211E1E",
         date: "May 2023 - May 2023",
         points: [
             "Established Local Development Environment: Efficiently set up a comprehensive local development environment by downloading and configuring all necessary files, tools, and dependencies.",
