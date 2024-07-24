@@ -1,4 +1,4 @@
-import { hindi, monroe, jpmc, kpmg, pwc, rmhc, unicef, wics, usacs, blueprint, rumad, inke } from "../assets/images";
+import { hindi, monroe, jpmc, kpmg, pwc, rmhc, unicef, wics, usacs, blueprint, rumad, inke, headstarter } from "../assets/images";
 
 import {
     c,
@@ -129,6 +129,16 @@ export const skills = [
 ];
 
 export const experiences = [
+    {
+        title: "Incoming Software Engineering Fellow",
+        company_name: "Headstarter AI",
+        icon: headstarter,
+        iconBg: "black",
+        date: "July 2024 - Present",
+        points: [
+            "** Summer 2024 **",
+        ],
+    },
     {
         title: "Incoming Software Engineer Intern",
         company_name: "Inke CO.",
