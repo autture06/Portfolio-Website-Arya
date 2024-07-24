@@ -1,4 +1,5 @@
 import blueprint from './blueprint.png'
+import headstarter from './headstarter.png'
 import hero from './hero.jpg'
 import hindi from './hindi.png'
 import inke from './inke.png'
@@ -15,6 +16,7 @@ import logo from './logo.svg'
 
 export {
     blueprint,
+    headstarter,
     hero,
     hindi,
     inke,
