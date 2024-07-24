@@ -1,4 +1,4 @@
-import { hindi, monroe, jpmc, kpmg, pwc, rmhc, unicef, wics, usacs, blueprint, rumad, inke, headstarter } from "../assets/images";
+import { hindi, monroe, jpmc, kpmg, pwc, rmhc, unicef, wics, usacs, blueprint, rumad, inke, goldsachs, headstarter } from "../assets/images";
 
 import {
     c,
@@ -135,6 +135,16 @@ export const experiences = [
         icon: headstarter,
         iconBg: "black",
         date: "July 2024 - Present",
+        points: [
+            "** Summer 2024 **",
+        ],
+    },
+    {
+        title: "Software Engineer Program Participant",
+        company_name: "Goldman Sachs",
+        icon: goldsachs,
+        iconBg: "#7B98C2",
+        date: "June 2024 - Present",
         points: [
             "** Summer 2024 **",
         ],
