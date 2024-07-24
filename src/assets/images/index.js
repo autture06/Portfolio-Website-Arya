@@ -1,5 +1,5 @@
 import blueprint from './blueprint.png'
-import goldsachs from './goldsachs/png'
+import goldsachs from './goldsachs.png'
 import headstarter from './headstarter.png'
 import hero from './hero.jpg'
 import hindi from './hindi.png'
