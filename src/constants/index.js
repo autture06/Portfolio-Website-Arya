@@ -297,7 +297,7 @@ export const socialLinks = [
     {
         name: 'Resume',
         iconUrl: resume,
-        link: 'https://drive.google.com/file/d/1wJuUma0juu5Yd12E_KEnKycm5ITfUEUV/view?usp=sharing',
+        link: 'https://drive.google.com/file/d/1cTf2hM8qYkJXRVL3ReVCOvAiGBnbGtV3/view?usp=sharing',
     },
     {
         name: 'GitHub',
